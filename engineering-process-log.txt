@@ -4,5 +4,9 @@ Set up a github repository to hold the project files
 Set up a google drive to hold project files
 Demonstrated proof of concept in AutoCAD to show that our chair could be modeled using the tools available
 Researched existing cardboard chairs
+Scheduled meeting for 8/25 (discuss individual market research and decide on design based on criteria)
+
+8/24
+Researched overhead costs for 3d printing scale model of a design
 
 
